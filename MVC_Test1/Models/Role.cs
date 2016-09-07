@@ -16,7 +16,7 @@ namespace MVC_Test1
 
     public class RoleMetadata
     {
-        [Display(Name = "xpto")]
+        [Display(Name = "Role")]
         public string Role1 { get; set; }
 
         public string Description { get; set; }
